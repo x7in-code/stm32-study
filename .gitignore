@@ -1,0 +1,25 @@
+# Keil MDK
+*.uvopt
+*.uvoptx
+*.axf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.dep
+*.tra
+*.sct
+*.htm
+*.lnp
+
+# 压缩包
+*.rar
+*.zip
+*.7z
+
+# 系统文件
+.DS_Store
+Thumbs.db

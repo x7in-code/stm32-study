@@ -16,7 +16,7 @@ STM32嵌入式学习仓库，Keil MDK，C语言练习，包含各类外设实验
 
 ## 🛠 环境
 IDE：Keil MDK-ARM
-芯片：STM32F103（可自行修改）
+芯片：STM32F103c8t6
 语言：C
 
 ## ✨ 说明
